@@ -1,1 +1,4 @@
-
+apps:
+- name: onlinecourse
+  random-route: true
+  memory: 128M
